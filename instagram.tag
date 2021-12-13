@@ -1,6 +1,6 @@
 www.instagram.com 
-Type username as cgoh0330
-Type password as LogitechG915
+Type username as [myusername]
+Type password as [mypassword]
 Click login 
 Click Images/Img_8.png
 Click Images/Img_6.png
